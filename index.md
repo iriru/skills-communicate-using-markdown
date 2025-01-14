@@ -22,3 +22,7 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 
 This is an <ins>underlined</ins> text
+
+# Add an image of Yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
