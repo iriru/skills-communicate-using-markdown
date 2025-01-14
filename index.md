@@ -26,3 +26,36 @@ This is an <ins>underlined</ins> text
 # Add an image of Yaktocat
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Add a code example
+
+### Example1
+
+````
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+````
+
+#### How it looks
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
+### Example2
+
+````
+```javascript
+var myVar = "Hello, world!";
+```
+````
+
+#### How it looks
+
+```javascript
+var myVar = "Hello, world!";
+```
